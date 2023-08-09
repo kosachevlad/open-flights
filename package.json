@@ -1,0 +1,11 @@
+{
+  "name": "open-filghts",
+  "private": true,
+  "dependencies": {
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3"
+  }
+}
